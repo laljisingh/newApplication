@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+    {
+    "source": {
+    "id": "espn",
+    "name": "ESPN"
+    },
+    "author": "Tim McManus",
+    "title": "Eagles QB Jalen Hurts, WR DeVonta Smith score Christmas TDs - ESPN",
+    "description": "The Philadelphia Eagles capitalized on a 54-yard punt return by Britain Covey and scored on their first drive of the game against New York.",
+    "url": "https://www.espn.com/nfl/story/_/id/39182661/eagles-qb-jalen-hurts-christmas-tush-push-td-vs-giants",
+    "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1225%2Fr1270663_1296x729_16%2D9.jpg",
+    "publishedAt": "2023-12-25T21:51:00Z",
+    "content": "PHILADELPHIA -- The \"tush push\" is still alive and well in Philadelphia.\r\nAn electric 54-yard punt return by Britain Covey in the opening minutes of Monday's Christmas game against the New York Giant… [+948 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Jack Forrest, Sean Lyngaas",
+    "title": "FBI says it’s investigating after reports of violent threats to Colorado judges in Trump case - CNN",
+    "description": "The FBI is working with law enforcement officials in Colorado in the wake of threats made against state Supreme Court justices who ruled last week to remove Donald Trump from the state’s 2024 presidential ballot.",
+    "url": "https://www.cnn.com/2023/12/25/politics/colorado-supreme-court-threats-fbi-trump-ruling/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231225135456-colorado-supreme-court-file-1220.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-12-25T21:24:00Z",
+    "content": "The FBI is working with law enforcement officials in Colorado in the wake of threats made against state Supreme Court justices who ruled last week to remove Donald Trump from the states 2024 presiden… [+3733 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Fox News",
+    "title": "'Zombie deer disease' concerns scientists over possible spread to humans - New York Post ",
+    "description": "“The BSE outbreak in Britain provided an example of how, overnight, things can get crazy when a spillover event happens from, say, livestock to people,” Dr. Cory Anderson told The Guard…",
+    "url": "https://nypost.com/2023/12/25/news/zombie-deer-disease-concerns-scientists-over-possible-spread-to-humans/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/12/Zombie-deer-disease-comp-1.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2023-12-25T21:14:00Z",
+    "content": "The discovery of Yellowstone National Parks first case of chronic wasting disease (CWD) last month has raised concerns that the fatal brain disease may someday spread to humans, according to some sci… [+4331 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Callie Lawson-Freeman",
+    "title": "Taylor Swift, Caitlin Clark spend Christmas at Arrowhead Stadium for Raiders' win over Chiefs - Yahoo Sports",
+    "description": "The stars came out for some holiday ball.",
+    "url": "https://sports.yahoo.com/taylor-swift-caitlin-clark-spend-christmas-at-arrowhead-stadium-for-raiders-win-over-chiefs-211221355.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_ir16.lTvqVoRkf_TnlCrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/8ae47da0-a352-11ee-b5fd-523df6cc04e8",
+    "publishedAt": "2023-12-25T21:12:21Z",
+    "content": "Taylor Swift and Caitlin Clark showed up to watch the Kansas City Chiefslose 20-14 in their Christmas Day matchup against the Las Vegas Raiders.\r\nSwift was back at Arrowhead Stadium to support Chiefs… [+1831 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "David Goldman",
+    "title": "Harvard faculty appeal to the university’s board to address its growing number of crises - CNN",
+    "description": "Some key members of Harvard’s faculty and the university’s top governing body held an extraordinary meeting last week to address the unprecedented problems at one of America’s most prestigious institutions of higher learning.",
+    "url": "https://www.cnn.com/2023/12/25/business/harvard-faculty-corporation-scandals/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1854702834.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-12-25T21:01:13Z",
+    "content": "Some key members of Harvards faculty and the universitys top governing body held an extraordinary meeting last week to address the unprecedented problems at one of Americas most prestigious instituti… [+5810 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": null,
+    "title": "Colorado shooting: Gunfire between two groups leaves one dead on Christmas Eve - The Associated Press",
+    "description": "Authorities say a man has been fatally shot and three people were hurt at a shopping center in Colorado. The Colorado Springs Police Department says a fight broke out on Christmas Eve between two groups of people in the afternoon at The Citadel Mall. Officers…",
+    "url": "https://apnews.com/article/colorado-springs-mall-shooting-citadel-bf60f7f4932a5006892b36a18bec5ad7",
+    "urlToImage": "https://dims.apnews.com/dims4/default/fe9551b/2147483647/strip/true/crop/4528x2547+0+235/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3b%2F0b%2Fefe5fbb0c991fdb2c8a3edb8b944%2F11f82a96653d413298b5137cdf301788",
+    "publishedAt": "2023-12-25T20:54:00Z",
+    "content": "COLORADO SPRINGS, Colo. (AP) A man was fatally shot and three people were hurt as gunfire rang out at a shopping center in Colorado on Christmas Eve, police said Sunday. \r\nA fight broke out between t… [+1876 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": null,
+    "title": "Kremlin opposition leader Alexey Navalny moved to Arctic penal colony but doing well, spokesperson says - CBS News",
+    "description": "Concern was rising because the imprisoned leading Kremlin opposition leader hadn't been heard from in more than two weeks.",
+    "url": "https://www.cbsnews.com/news/alexey-navalny-russia-opposition-leader-arctic-penal-colony/",
+    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/25/075a5466-a9b5-4685-a633-969bc3ee31ee/thumbnail/1200x630/0dc59a6e918ad49c924f5f979e87d545/2023-12-18t134053z-8847770-rc2kdu9d3kfa-rtrmadp-3-russia-navalny.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+    "publishedAt": "2023-12-25T20:37:00Z",
+    "content": "Imprisoned Russian opposition leader Alexey Navalny, whose whereabouts were not known for over two weeks, has been moved to a penal colony in the Arctic, allies said Monday. \r\nThe disappearance of Ru… [+2900 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Talia Lakritz",
+    "title": "Christmas in Bethlehem amid the Israel-Hamas war: photos - Business Insider",
+    "description": "Christmas celebrations in the West Bank town of Bethlehem were canceled amid the Israel-Hamas war.",
+    "url": "https://www.businessinsider.com/israel-hamas-war-christmas-bethlehem-photos-2023-12",
+    "urlToImage": "https://i.insider.com/6589d4d8ab6f2ebb11f6c876?width=1200&format=jpeg",
+    "publishedAt": "2023-12-25T20:32:00Z",
+    "content": "Bethlehem, the biblical birthplace of Jesus located in the West Bank, is usually packed with tourists during Christmas. Home to sites like the Church of the Nativity, which is believed to be the loca… [+924 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Bleeding Green Nation"
+    },
+    "author": "Alexis Chassen",
+    "title": "Eagles vs. Giants on Christmas Day: First quarter scores updates - Bleeding Green Nation",
+    "description": "The Eagles are finally back at home for their Christmas Day matchup against the Giants.",
+    "url": "https://www.bleedinggreennation.com/2023/12/25/24013656/eagles-vs-giants-first-quarter-scores-updates-week-16-christmas-day-game-thread-nfl",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/OyPFB5GhU0sAWmmRVItc8N09hCk=/0x399:5568x3314/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25184036/1190276178.jpg",
+    "publishedAt": "2023-12-25T20:30:17Z",
+    "content": "Merry Christmas BGN!\r\nThe Philadelphia Eagles are finally back home at Lincoln Financial Field and will host the New York Giants for a much-needed NFC East victory.\r\nTheres no need to drudge up whats… [+849 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters",
+    "title": "Israeli airstrike in Syria kills senior Iranian Revolutionary Guards member - Reuters",
+    "description": null,
+    "url": "https://www.reuters.com/world/middle-east/israeli-air-strike-syria-kills-senior-iranian-revolutionary-guards-member-2023-12-25/",
+    "urlToImage": null,
+    "publishedAt": "2023-12-25T20:04:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Giantbomb.com"
+    },
+    "author": "Marino - Brad Lynch",
+    "title": "Dan Ryckert's Top 10 Games of 2023 - Giant Bomb",
+    "description": "Dan likes games. Dan likes Nintendo. Dan likes Nintendo games.",
+    "url": "https://www.giantbomb.com/articles/dan-ryckerts-top-10-games-of-2023/1100-6361/",
+    "urlToImage": "https://www.giantbomb.com/a/uploads/screen_kubrick/0/1992/3530080-untitled-1.png",
+    "publishedAt": "2023-12-25T20:00:00Z",
+    "content": "Hey has anyone noticed that this was a really good year for video games? Who knew! Heres my top ten from a wild year, and only half of them are first-party Nintendo titles!\r\nYou give me a WarioWare g… [+7509 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Eatingwell.com"
+    },
+    "author": "https://www.facebook.com/EatingWell/",
+    "title": "The Best Vegetable to Help You Poop, According to Dietitians - EatingWell",
+    "description": "Veggies can help relieve constipation because of their fiber and fluid content. Find out our choice for the best veggie to help you poop.",
+    "url": "https://www.eatingwell.com/the-best-vegetable-to-help-you-poop-8415776",
+    "urlToImage": "https://www.eatingwell.com/thmb/TK2IG1yIdcMeKUiZKxES3C4E7b4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Best-Vegetable-to-Help-You-Poop-According-to-Dietitian-227cfb7cbf9348fe84771f2302e5177b.jpg",
+    "publishedAt": "2023-12-25T20:00:00Z",
+    "content": "Straining on the toilet, passing dry stool or feeling like your stool hasnt fully passed are all signs of constipation, per the National Institute of Diabetes and Digestive and Kidney Disease. There … [+5964 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Foxweather.com"
+    },
+    "author": "Emilee Speck",
+    "title": "NASA observatory captures cosmic ‘Christmas Tree Cluster’ - Fox Weather ",
+    "description": "A very merry photo from NASA’s Chandra X-ray observatory shows even the universe can add a little Christmas magic to the holiday season.",
+    "url": "https://www.foxweather.com/earth-space/nasa-cosmic-christmas-tree-cluster",
+    "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2023/12/1024/512/Christmastreecluster.jpg?ve=1&tl=1",
+    "publishedAt": "2023-12-25T19:42:00Z",
+    "content": "A very merry photo from NASA’s Chandra X-ray observatory shows that even the universe can add Christmas magic to the holiday season.\r\nNASA released a new image of a cluster of young stars known as NG… [+1404 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The News Journal"
+    },
+    "author": "Anthony DiMattia",
+    "title": "Did anyone win Powerball? Winning numbers for Monday, December 25 - The News Journal",
+    "description": "With no grand prize winner from Saturday's Powerball drawing, the jackpot now is worth an estimated $638 million with a cash value of $321.1 million.",
+    "url": "https://www.delawareonline.com/story/news/lottery/2023/12/25/did-anyone-win-powerball-winning-numbers-monday-december-25-2023-lottery-drawing/72023577007/",
+    "urlToImage": "https://www.delawareonline.com/gcdn/presto/2018/10/31/PWIL/210f30da-c6f0-4c4b-90de-a351010be255-GettyImages-900956704.jpg?crop=2627,1477,x280,y72&width=2627&height=1477&format=pjpg&auto=webp",
+    "publishedAt": "2023-12-25T19:13:35Z",
+    "content": "The number just keeps growing.\r\nWith no grand prize winner from Saturday night's Powerball drawing, the jackpot now is worth an estimated $638 million with a cash value of $321.1 million.\r\nReady to t… [+3044 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sports Illustrated"
+    },
+    "author": "Daniel Chavkin",
+    "title": "Vikings' Kirk Cousins Had Classy Message for Lions' Jared Goff, and NFL Fans Loved It - Sports Illustrated",
+    "description": "The two NFC North quarterbacks shared a cool moment after the Detroit Lions’ victory over the Minnesota Vikings on Sunday.",
+    "url": "https://www.si.com/nfl/2023/12/25/minnesota-vikings-kirk-cousins-detroit-lions-jared-gaff-classy-message",
+    "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAzMTYzOTM5ODE3NjYxNjIy/kirk-cousins.jpg",
+    "publishedAt": "2023-12-25T18:54:44Z",
+    "content": "The Detroit Lions clinched the NFC North with a win over the Minnesota Vikings on Sunday, the first time in 30 years that the Lions have won their division. It also marks an incredible turnaround fro… [+1052 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KOMO News"
+    },
+    "author": "Lee Stoll, KOMO News",
+    "title": "Rise in seasonal illnesses prompts concern from health officials amid holiday travel - KOMO News",
+    "description": "If you're heading out of town for the holidays, be aware.",
+    "url": "https://komonews.com/news/local/flu-rsv-covid19-covid-coronavirus-cases-respiratory-syncytial-virus-uptick-down-decrease-increase-vaccine-vaccinated-pregnant-women-seattle-washington-department-of-health-transmission-infection-northeast-hospitalization-deaths",
+    "urlToImage": "https://komonews.com/resources/media/505dc7ea-32de-4c49-8d16-7b05c0c15fed-large16x9_6SVLD_RSVVACCINES.transfer_frame_373.jpeg",
+    "publishedAt": "2023-12-25T18:39:16Z",
+    "content": "SEATTLE If you're heading out of town for the holidays, be aware.\r\nIn just the last month, health officials said they've seen a significant increase in some seasonal illnesses across the country:\r\n<u… [+1444 chars]"
+    },
+    {
+    "source": {
+    "id": "financial-times",
+    "name": "Financial Times"
+    },
+    "author": null,
+    "title": "Benjamin Netanyahu visits Israeli troops in northern Gaza and tells them war will not stop - Financial Times",
+    "description": "Prime minister forced to defend military campaign to parliament as Pope Francis cites conflict in his Christmas message",
+    "url": "https://www.ft.com/content/40c6e678-eeca-4346-9c1b-83d90e38f823",
+    "urlToImage": null,
+    "publishedAt": "2023-12-25T18:30:42Z",
+    "content": "Keep abreast of significant corporate, financial and political developments around the world. Stay informed and spot emerging risks and opportunities with independent global reporting, expert comment… [+30 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NDTV News"
+    },
+    "author": null,
+    "title": "6-Year-Old Child Who Was Travelling Alone Put On Wrong Spirit Airlines Flight - NDTV",
+    "description": "The statement did not address how the error came to take place, but a spokesperson said an internal investigation was underway.",
+    "url": "https://www.ndtv.com/world-news/6-year-old-child-who-was-travelling-alone-put-on-wrong-spirit-airlines-flight-4741720",
+    "urlToImage": "https://c.ndtvimg.com/2023-12/siu3ile_spirit-airlines_625x300_25_December_23.jpeg?ver-20231203.06",
+    "publishedAt": "2023-12-25T18:06:28Z",
+    "content": "The boy was ''incorrectly boarded'' on a flight to Orlando, 4 hours away from his intended destination.\r\nAn unaccompanied 6-year-old boy flying for the first time to see his grandmother in Florida wa… [+2430 chars]"
+    },
+    {
+    "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+    },
+    "author": "Jennifer Ouellette",
+    "title": "People can tell what you want to know when you shake wrapped Christmas gifts - Ars Technica",
+    "description": "We can tell if it's about how many objects are inside, or the shape of those objects.",
+    "url": "https://arstechnica.com/science/2023/12/how-you-shake-that-wrapped-christmas-gift-reveals-what-youre-trying-to-learn/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/shaking1CROP-760x380.jpg",
+    "publishedAt": "2023-12-25T17:18:03Z",
+    "content": "Enlarge/ Shake, shake, shake: this adorable young child would love to guess what he's getting for Christmas this year. \r\n28\r\nThere's rarely time to write about every cool science-y story that comes o… [+4750 chars]"
+    }
+    ]
+    }
